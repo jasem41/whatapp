@@ -1,4 +1,4 @@
-{"version_code":199019993.,"content":"
+{"version_code":452450.,"content":"
 
 <p>تحديث اصلاحي كامل لكل النسخ</p>
 
@@ -28,5 +28,5 @@
 <p> Many more things, and I forgot what. </p>
 <p> Have fun and discover what's new for yourself! </p>
  
- ","url":"https://t.me/whatsapp_2_plus"
+ ","url":"https://shardnat.tech"
 }
